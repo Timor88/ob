@@ -6,11 +6,11 @@
       {
         "id": "0831c7e9d760e24e",
         "type": "leaf",
-        "dimension": 46.3623395149786,
+        "dimension": 57.0957095709571,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "three.md",
+            "file": "git.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "568792b576f245e3",
         "type": "leaf",
-        "dimension": 53.6376604850214,
+        "dimension": 42.9042904290429,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "three.md",
+            "file": "git.md",
             "mode": "source"
           }
         },
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a010cf387062af30",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "three.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "three.md"
+                "file": "git.md"
               }
             }
           },
@@ -111,25 +110,27 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "three.md",
+                "file": "git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 412
+    "width": 412,
+    "collapsed": true
   },
   "active": "0831c7e9d760e24e",
   "lastOpenFiles": [
+    "git.md",
+    "未命名.md",
     "three.md",
     "second.md",
     "first.md",
-    "hi.md",
-    "未命名.md"
+    "hi.md"
   ]
 }
