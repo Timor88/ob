@@ -8,8 +8,11 @@
         "type": "leaf",
         "dimension": 46.3623395149786,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "three.md",
+            "mode": "source"
+          }
         },
         "group": "bb17d9483822784e"
       },
@@ -18,8 +21,11 @@
         "type": "leaf",
         "dimension": 53.6376604850214,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "three.md",
+            "mode": "source"
+          }
         },
         "group": "bb17d9483822784e"
       }
@@ -61,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a010cf387062af30",
@@ -77,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "three.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "three.md"
+              }
             }
           },
           {
@@ -101,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "three.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,11 +124,12 @@
     "direction": "horizontal",
     "width": 412
   },
-  "active": "568792b576f245e3",
+  "active": "0831c7e9d760e24e",
   "lastOpenFiles": [
-    "hi.md",
+    "three.md",
     "second.md",
     "first.md",
+    "hi.md",
     "未命名.md"
   ]
 }
